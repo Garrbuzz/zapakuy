@@ -1,0 +1,1067 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"backgro",
+				"background"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"str_",
+				"str_replace"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"back",
+				"background-size\tproperty"
+			],
+			[
+				"po",
+				"pointer-events\tproperty"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"flex-",
+				"flex-wrap\tproperty"
+			],
+			[
+				"gid",
+				"grid-row\tproperty"
+			],
+			[
+				"tran",
+				"transition\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"cur",
+				"cursor\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"mrg",
+				"margin-top\tproperty"
+			],
+			[
+				"bac",
+				"background-clip"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"grid-co",
+				"grid-column\tproperty"
+			],
+			[
+				"h",
+				"html"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"grid-c",
+				"grid-column\tproperty"
+			],
+			[
+				"he",
+				"height\tproperty"
+			],
+			[
+				"rg",
+				"rgba()\tbackground"
+			],
+			[
+				"grid-au",
+				"grid-auto-rows\tproperty"
+			],
+			[
+				"justi",
+				"justify-content"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"box-",
+				"box-shadow\tproperty"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"just",
+				"justify-content\tproperty"
+			],
+			[
+				"displa",
+				"display\tproperty"
+			],
+			[
+				"padding-",
+				"padding-right"
+			],
+			[
+				"font-st",
+				"font-style\tproperty"
+			],
+			[
+				"dark",
+				"darkgreen"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"colu",
+				"column"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"con",
+				"align-content"
+			],
+			[
+				"font-w",
+				"font-weight"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"l",
+				"line-height\tproperty"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"bacg",
+				"background-size"
+			],
+			[
+				"gri",
+				"grid-column-start\tproperty"
+			],
+			[
+				"grid-r",
+				"grid-row-end"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"jus",
+				"justify-content"
+			],
+			[
+				"grid-row",
+				"grid-row-end"
+			],
+			[
+				"grid-row-",
+				"grid-row-start\tproperty"
+			],
+			[
+				"grid-colum",
+				"grid-column-end"
+			],
+			[
+				"grid-te",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"ju",
+				"justify-content"
+			],
+			[
+				"grid",
+				"grid-column-start\tproperty"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"bot",
+				"both"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"or",
+				"orange"
+			],
+			[
+				"tr",
+				"translate()"
+			],
+			[
+				"cla",
+				"classList"
+			],
+			[
+				"gr",
+				"grid-column-end\tproperty"
+			],
+			[
+				"grid-ro",
+				"grid-row-start\tproperty"
+			],
+			[
+				"str",
+				"strike-1-1-paused"
+			],
+			[
+				"animation-d",
+				"animation-delay"
+			],
+			[
+				"i",
+				"infinite"
+			],
+			[
+				"animation-it",
+				"animation-iteration-count"
+			],
+			[
+				"animation-du",
+				"animation-duration"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"margin-bott",
+				"margin-bottom"
+			],
+			[
+				"ne",
+				"news-item"
+			],
+			[
+				"fl",
+				"flex\tproperty"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"bacground",
+				"background-image\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"e",
+				"ease-in-out"
+			],
+			[
+				"gre",
+				"grey"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"al",
+				"align-self"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"red",
+				"readyState"
+			],
+			[
+				"s",
+				"src\tAttr"
+			],
+			[
+				"a",
+				"array"
+			],
+			[
+				"pr",
+				"print_r"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"B",
+				"background"
+			],
+			[
+				"se",
+				"session_start"
+			],
+			[
+				"PRINT",
+				"print_r"
+			],
+			[
+				"session",
+				"session_start"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"on",
+				"onClick"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"shad",
+				"box-shadow"
+			],
+			[
+				"in",
+				"innerHTML"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"m",
+				"margin-right"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"my",
+				"mysqli"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"br",
+				"brOfCart"
+			],
+			[
+				"ch",
+				"choiceOfCartridge"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"db",
+				"db_password"
+			],
+			[
+				"mysql",
+				"mysql_connect"
+			],
+			[
+				"list-s",
+				"list-style-type"
+			],
+			[
+				"Azbuka",
+				"Azbuka06.ttf"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"Background-c",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "source/css/style.scss",
+			"settings":
+			{
+				"buffer_size": 4460,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "source/html/index.html",
+			"settings":
+			{
+				"buffer_size": 11357,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "source/html/t-shirts.html",
+			"settings":
+			{
+				"buffer_size": 3523,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/OpServ/OSPanel/domains/tara_html/source/css/style.scss",
+			"settings":
+			{
+				"buffer_size": 6093,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "source/css/layout.scss",
+			"settings":
+			{
+				"buffer_size": 1169,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Enable Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"livereload",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/OpServ/OSPanel/domains/zapakuy/source/html/index.html",
+		"/E/OpServ/OSPanel/domains/php/shop/composer.json",
+		"/E/OpServ/OSPanel/domains/khust-merch/source/html/index.html",
+		"/E/OpServ/OSPanel/domains/ns/source/php/literature.php",
+		"/E/OpServ/OSPanel/domains/ns/source/js/literature.js",
+		"/E/OpServ/OSPanel/domains/ns/source/js/quote.js",
+		"/E/OpServ/OSPanel/domains/ns/source/js/script.js",
+		"/E/OpServ/OSPanel/domains/ns/source/css/style.scss",
+		"/E/OpServ/OSPanel/domains/ns/source/html/talan_y_zaochno_13.02.html",
+		"/E/OpServ/OSPanel/domains/ns/source/html/index.html",
+		"/E/edu/js/CustomFileInputs/CustomFileInputs/js/custom-file-input.js",
+		"/E/OpServ/OSPanel/domains/ns/source/html/talan_y_13.05.html",
+		"/E/OpServ/OSPanel/domains/ns/source/html/lavina_zaochno_2.04.html",
+		"/E/OpServ/OSPanel/domains/ns/source/html/instr.html",
+		"/E/OpServ/OSPanel/domains/tara/assets/components/shopkeeper3/web/js/shopkeeper.js",
+		"/E/OpServ/OSPanel/domains/tara/assets/web/js/mail.js",
+		"/E/OpServ/OSPanel/domains/ns/source/html/contacts.html",
+		"/E/OpServ/OSPanel/domains/tara/assets/components/shopkeeper3/web/js/shopkeeperl.js",
+		"/E/OpServ/OSPanel/domains/merch-modx/assets/components/shopkeeper3/web/js/shopkeeper.js",
+		"/E/OpServ/OSPanel/domains/merch-modx/www/css/style.css",
+		"/E/OpServ/OSPanel/domains/merch-modx/www/js/slider.js",
+		"/E/OpServ/OSPanel/domains/gosha/assets/web/php/filters.php",
+		"/E/OpServ/OSPanel/domains/ns-modx/assets/web/php/nominations.php",
+		"/E/OpServ/OSPanel/domains/gosha/assets/web/js/my_filters.js",
+		"/E/OpServ/OSPanel/domains/ns-modx/assets/web/js/order.js",
+		"/E/OpServ/OSPanel/domains/ns-modx/assets/web/php/nominations.json",
+		"/E/OpServ/OSPanel/domains/ns/source/html/zuri.html",
+		"/E/OpServ/OSPanel/domains/ns/source/html/pro_nas.html",
+		"/E/OpServ/OSPanel/domains/ns/source/html/order.html",
+		"/E/OpServ/OSPanel/domains/ns-modx/assets/web/js/script.js",
+		"/E/OpServ/OSPanel/domains/ns/source/html/lavina_28.03.html",
+		"/E/OpServ/OSPanel/domains/ns/source/html/pologennya.html",
+		"/C/Users/Buzz/AppData/Local/Temp/Rar$DIa11888.2051/config.inc.php",
+		"/E/OpServ/OSPanel/domains/ns-modx/index.php",
+		"/E/OpServ/OSPanel/domains/ns/source/html/talan_y_9.05.html",
+		"/E/OpServ/OSPanel/domains/ns/www/css/style.css",
+		"/E/OpServ/OSPanel/domains/ns/source/html/video.html",
+		"/E/OpServ/OSPanel/domains/gosha-gag/index.html",
+		"/D/VP/Projects/WEB/nashsled/Nash_Sled.html",
+		"/E/OpServ/OSPanel/domains/ns/source/css/layout.scss",
+		"/E/OpServ/OSPanel/domains/imla/source/css/style.scss",
+		"/E/OpServ/OSPanel/domains/ns/gulpfile.js",
+		"/E/OpServ/OSPanel/domains/wp/wp-content/themes/sparrow/index.php",
+		"/E/OpServ/OSPanel/domains/wp/wp-content/themes/sparrow/header.php",
+		"/E/OpServ/OSPanel/domains/wp/wp-content/themes/sparrow/style.css",
+		"/E/OpServ/OSPanel/domains/wp/wp-content/themes/sparrow/footer.php",
+		"/E/OpServ/OSPanel/domains/wp/wp-content/themes/sparrow/functions.php",
+		"/E/OpServ/OSPanel/domains/php/shop/public/css/style.css",
+		"/E/OpServ/OSPanel/domains/khust-merch/www/index.html",
+		"/E/OpServ/OSPanel/domains/khust-merch/source/css/paintings.scss",
+		"/E/OpServ/OSPanel/domains/khust-merch/source/html/paintings.html",
+		"/E/OpServ/OSPanel/domains/khust-merch/source/css/categories.scss",
+		"/E/OpServ/OSPanel/domains/merch-modx/www/php/test1/test1.php",
+		"/E/OpServ/OSPanel/domains/merch-modx/www/php/test1/snippet-filter.php",
+		"/E/OpServ/OSPanel/domains/merch-modx/www/php/test1/js-filter.js",
+		"/E/OpServ/OSPanel/domains/merch-modx/www/js/my_filters.js",
+		"/E/OpServ/OSPanel/domains/merch-modx/www/php/test.php",
+		"/E/OpServ/OSPanel/domains/merch-modx/www/js/mail.js",
+		"/E/OpServ/OSPanel/domains/merch-modx/www/php/mail.php",
+		"/E/OpServ/OSPanel/domains/khust-merch/source/html/goods/t-shirt-1.html",
+		"/E/OpServ/OSPanel/domains/khust-merch/source/html/goods/picture-1.html",
+		"/E/OpServ/OSPanel/domains/khust-merch/source/html/contacts.html",
+		"/E/OpServ/OSPanel/domains/khust-merch/source/css/product-card.scss",
+		"/E/OpServ/OSPanel/domains/khust-merch/source/css/goods.scss",
+		"/E/OpServ/OSPanel/domains/khust-merch/source/css/style.scss",
+		"/E/OpServ/OSPanel/domains/khust-merch/source/html/t-shirts.html",
+		"/E/OpServ/OSPanel/domains/khust-merch/source/css/cart.scss",
+		"/E/OpServ/OSPanel/domains/khust-merch/source/html/cart.html",
+		"/E/OpServ/OSPanel/domains/khust-merch/source/css/contacts.scss",
+		"/E/OpServ/OSPanel/domains/khust-merch/www/css/style.css",
+		"/G/Мій диск/work_gdrive_oleg/web/test-slider.html",
+		"/E/OpServ/OSPanel/domains/khust-merch/source/js/slider.js",
+		"/E/OpServ/OSPanel/domains/sptraining/source/js/script.js",
+		"/E/OpServ/OSPanel/domains/imla1/php/sendmessage.php",
+		"/E/OpServ/OSPanel/domains/sptraining/source/js/build.js",
+		"/E/OpServ/OSPanel/domains/sptraining/source/js/cabinet.js",
+		"/E/OpServ/OSPanel/domains/sptraining/source/js/login.js",
+		"/E/merch-tmp/assets/components/shopkeeper3/web/js/shopkeeper.js",
+		"/E/OpServ/OSPanel/domains/khust-merch/www/t-shirts.html",
+		"/E/merch-tmp/www/css/style.css",
+		"/E/OpServ/OSPanel/domains/merch-modx/core/components/shopkeeper3/elements/chunks/ru/shopCartRow.tpl",
+		"/E/OpServ/OSPanel/domains/merch-modx/assets/components/shopkeeper3/web/js/lang/uk.js",
+		"/E/OpServ/OSPanel/domains/khust-modx/assets/www/index.html",
+		"/E/OpServ/OSPanel/domains/merch-modx/assets/components/shopkeeper3/connector_fe.php",
+		"/E/OpServ/OSPanel/domains/merch-modx/assets/components/shopkeeper3/web/css/default/style.css",
+		"/E/OpServ/OSPanel/domains/merch-modx/assets/components/shopkeeper3/web/js/shopkeeper_original.js",
+		"/E/OpServ/OSPanel/domains/merch-modx/core/components/shopkeeper3/elements/chunks/ru/shopCart.tpl",
+		"/E/OpServ/OSPanel/domains/merch-modx/core/components/shopkeeper3/elements/chunks/ru/orderDataRow.tpl",
+		"/E/OpServ/OSPanel/domains/merch-modx/www/js/cart.js",
+		"/E/OpServ/OSPanel/domains/merch-modx/core/components/shopkeeper3/elements/snippets/shopkeeper.php",
+		"/E/OpServ/OSPanel/domains/khust/source/html/index.html",
+		"/E/OpServ/OSPanel/domains/khust/source/html/news/news-4.html",
+		"/E/OpServ/OSPanel/domains/khust/source/css/news.scss",
+		"/E/OpServ/OSPanel/domains/khust/source/html/news.html",
+		"/E/OpServ/OSPanel/domains/khust-modx/assets/www/js/script.js",
+		"/E/OpServ/OSPanel/domains/khust/source/html/poster.html",
+		"/E/OpServ/OSPanel/domains/khust/source/html/news/news-3.html",
+		"/E/OpServ/OSPanel/domains/khust/source/html/news/news-1.html",
+		"/E/OpServ/OSPanel/domains/khust/source/html/people.html",
+		"/E/OpServ/OSPanel/domains/khust/source/css/people.scss",
+		"/E/OpServ/OSPanel/domains/khust/source/html/miskrada.html",
+		"/E/OpServ/OSPanel/domains/khust/source/css/poster.scss",
+		"/E/OpServ/OSPanel/domains/khust/source/css/style.scss",
+		"/E/OpServ/OSPanel/domains/khust/source/html/streets.html",
+		"/E/OpServ/OSPanel/domains/khust/source/html/weather.html",
+		"/E/OpServ/OSPanel/domains/khust/source/css/miskrada.scss",
+		"/E/OpServ/OSPanel/domains/khust/source/css/streets.scss",
+		"/E/OpServ/OSPanel/domains/khust-modx/assets/www/css/style.css",
+		"/E/OpServ/OSPanel/domains/khust/source/html/articles/news-1.html",
+		"/E/OpServ/OSPanel/domains/khust-modx/index.php",
+		"/E/OpServ/OSPanel/domains/khust/source/css/layout.scss",
+		"/E/OpServ/OSPanel/domains/test/test1/gulpfile.js",
+		"/E/OpServ/OSPanel/domains/templates/t1/package-lock.json",
+		"/E/OpServ/OSPanel/domains/imla/source/js/script.js",
+		"/E/OpServ/OSPanel/domains/imla/source/css/header.scss",
+		"/E/OpServ/OSPanel/domains/imla/source/html/index.html",
+		"/E/OpServ/OSPanel/domains/imla/source/html/html/video.html",
+		"/E/OpServ/OSPanel/domains/imla/source/html/html/audio.html",
+		"/E/OpServ/OSPanel/domains/imla/source/css/layout.scss",
+		"/E/OpServ/OSPanel/domains/test/test1/package-lock.json",
+		"/E/OpServ/backup/imla/imla_26-01-2019/css/style.css",
+		"/E/OpServ/OSPanel/domains/imla/gulpfile.js",
+		"/E/OpServ/OSPanel/domains/imla/source/css/nav.scss",
+		"/E/OpServ/OSPanel/domains/imla/source/html/html/about.html",
+		"/E/OpServ/OSPanel/domains/imla/source/html/html/contacts.html",
+		"/E/OpServ/OSPanel/domains/imla/source/html/html/blog.html",
+		"/E/OpServ/OSPanel/domains/imla/source/html/html/news.html",
+		"/E/OpServ/OSPanel/domains/imla/source/html/html/concerts.html"
+	],
+	"find":
+	{
+		"height": 51.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"hide",
+			"hide-div",
+			"p-thin",
+			"posters-cover",
+			"title-fe",
+			"fest-co",
+			"http",
+			"alert",
+			"&#9660;",
+			"button",
+			"counterFieldCartInit",
+			":be",
+			"contacts",
+			"event-",
+			"rozklad",
+			"auto",
+			"style",
+			"<a href=\"index.html\">",
+			">\n",
+			"cover",
+			"contacts",
+			"co\t",
+			"contacts\t",
+			"imla",
+			"goods-image",
+			"product-card-right",
+			"cart-order",
+			"big-image",
+			"bread",
+			"product-card-right",
+			".right",
+			"удале",
+			"console.log",
+			"console",
+			">+",
+			"+",
+			"ajaxRequest",
+			"setCounterToField",
+			"changeCartItemsCount",
+			"recountItemAll",
+			"langTxt",
+			"setCounterToField",
+			"+"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "source/css/style.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4460,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2487,
+								2487
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4336.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "source/html/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11357,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1487,
+								1556
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1017.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "source/html/t-shirts.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3523,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2498,
+								2498
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1626.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/E/OpServ/OSPanel/domains/tara_html/source/css/style.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6093,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6093,
+								5743
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 8421.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "source/css/layout.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1169,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								81,
+								1169
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1547.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "zapakuy.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

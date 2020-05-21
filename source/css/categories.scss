@@ -1,0 +1,141 @@
+$mainFont: montserrat;
+$colorBrand: #fdd304;
+$backBrand: #3c3c3a;
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.category-background {
+    grid-column: 2/12;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    font-family: $mainFont;
+
+    ul {
+        margin-bottom: 0.5em;
+        list-style-type: none;
+
+        li {
+            display: inline-block;
+
+            a {
+                text-decoration: none;
+                font-weight: 500;
+                color: #3b3b3b;
+                transition: color 0.2s linear;
+            }
+
+            a:visited {
+                color: #3b3b3b;
+            }
+
+            a:hover {
+                color: $colorBrand;
+                cursor: pointer;
+            }
+        }
+    }
+
+    h1 {
+        color: #3b3b3b;
+    }
+}
+
+.back-buck {
+    background: no-repeat url('../img/cat-back.jpg');
+    background-size: cover;
+}
+
+.bread-wrap {
+    margin-left: 1em;
+}
+
+.this-category {
+    background: #e3e2e1;
+    border-radius: 5px;
+}
+
+.category-title {
+    grid-column: 5/14;
+    text-align: center;
+
+    h1 {
+        font-family: $mainFont;
+        font-weight: 500;
+        color: $colorBrand;
+        font-size: 4em;
+        margin-top: 6vh;
+    }
+}
+
+.left-category {
+    grid-column: 2/4;
+    grid-row: 3/5;
+
+}
+
+.left-nav-category {
+    margin-top: 2em;
+}
+
+// .size,
+// .sex {
+//     margin: 4em 0;
+
+//     label {
+//         margin: 0.5em 0;
+//         display: block;
+//         color: #3b3b3b;
+//     }
+
+//     p {
+//         font-size: 1.25em;
+//         font-weight: 500;
+//         color: #3b3b3b;
+//         margin: 0 0 1.5em;
+//     }
+
+// }
+
+// .radio {
+//     display: none;
+// }
+
+// .radio-style {
+//     display: inline-block;
+//     width: 1em;
+//     height: 1em;
+//     border: 1px #3b3b3b solid;
+//     border-radius: 3px;
+//     position: relative;
+// }
+
+// .radio-style::before {
+//     content: "";
+//     position: absolute;
+//     width: 1em;
+//     height: 1em;
+//     border-radius: 3px;
+//     background: #fdd304;
+//     opacity: 0;
+//     transition: opacity 0.2s linear;
+// }
+
+// .radio:checked+.radio-style::before {
+//     opacity: 1;
+// }
+
+// .to-cart {
+//     position: absolute;
+//     top: 30%;
+//     left: 50%;
+//     transform: translateX(-50%);
+//     width: 70px;
+//     height: 70px;
+//     border-radius: 50%;
+//     background: #2f2f2e;
+// }

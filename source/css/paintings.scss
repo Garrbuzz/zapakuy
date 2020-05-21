@@ -1,0 +1,55 @@
+$mainFont: montserrat;
+$colorBrand: #fdd304;
+$backBrand: #3c3c3a;
+.short-description{
+	margin:2em 2em 2em 0;
+	
+	line-height: 1.5em;
+}
+.div-picture{
+	height: 400px;
+	width: 300px;
+}
+.img-picture{
+	justify-content:  flex-start;
+}
+.background-paintings{
+	background: no-repeat url('../img/paintings-back.jpg');
+	background-size: cover;
+}
+
+// slider
+.slider {
+
+      position: relative;
+      max-width: 400px;
+      margin-top:3em;
+      .big-image-slider{
+      	overflow: hidden;
+      }
+}
+.slider-wrapper{
+	display:flex;
+	transition: transform 0.6s ease;
+}
+.slider-control-right, .slider-control-left{
+	position:absolute;
+	top:calc(50% - 1em);
+	font-size: 2em;
+	font-family: $mainFont;
+	font-weight: 500;
+	color:$colorBrand;
+}
+.slider-control-right:hover, .slider-control-left:hover{
+	cursor:pointer;
+}
+.slider-control-right{
+	left:-1.5em;		
+}
+.slider-control-left{
+
+	right:-1.5em;
+}
+	
+
+// slider end

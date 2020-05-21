@@ -1,0 +1,24 @@
+$mainFont: montserrat; 
+$colorBrand: #fdd304;
+$backBrand: #3c3c3a;
+.contacts-wrap{
+	grid-column: 2/14;
+	display:flex;
+	justify-content: center;
+	font-family: $mainFont;
+	table{
+		margin: 7vh 0;
+	}
+
+	td{
+		width: 25vw;
+	}
+	p{
+		margin:1.25em 0;
+		font-size: 1.75em;
+		font-weight: 500;
+	}
+	.contacts-value{
+		margin-left:5em;
+	}
+}
