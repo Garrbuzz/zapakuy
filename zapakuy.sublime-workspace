@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"margin",
+				"margin-top"
+			],
+			[
 				"fon",
 				"font-size"
 			],
@@ -86,10 +90,6 @@
 			[
 				"cur",
 				"cursor\tproperty"
-			],
-			[
-				"margin",
-				"margin-top\tproperty"
 			],
 			[
 				"mrg",
@@ -520,19 +520,10 @@
 	"buffers":
 	[
 		{
-			"file": "source/css/style.scss",
-			"settings":
-			{
-				"buffer_size": 4460,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "source/html/index.html",
 			"settings":
 			{
-				"buffer_size": 11357,
+				"buffer_size": 11465,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -541,16 +532,29 @@
 			"file": "source/html/t-shirts.html",
 			"settings":
 			{
-				"buffer_size": 3523,
+				"buffer_size": 11730,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/E/OpServ/OSPanel/domains/tara_html/source/css/style.scss",
+			"file": "source/css/style.scss",
 			"settings":
 			{
-				"buffer_size": 6093,
+				"buffer_size": 5090,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "$mainFont: montserrat;\n$colorBrand: #fdd304;\n$backBrand: #3c3c3a;\n\n* {\n    padding: 0;\n    margin: 0;\n}\n\n.category-background {\n    grid-column: 2/12;\n    height: 200px;\n    display: flex;\n    align-items: center;\n    justify-content: flex-start;\n    font-family: $mainFont;\n\n    ul {\n        margin-bottom: 0.5em;\n        list-style-type: none;\n\n        li {\n            display: inline-block;\n\n            a {\n                text-decoration: none;\n                font-weight: 500;\n                color: #3b3b3b;\n                transition: color 0.2s linear;\n            }\n\n            a:visited {\n                color: #3b3b3b;\n            }\n\n            a:hover {\n                color: $colorBrand;\n                cursor: pointer;\n            }\n        }\n    }\n\n    h1 {\n        color: #3b3b3b;\n    }\n}\n\n.back-buck {\n    background: no-repeat url('../img/cat-back.jpg');\n    background-size: cover;\n}\n\n.bread-wrap {\n    margin-left: 1em;\n}\n\n.this-category {\n    background: #e3e2e1;\n    border-radius: 5px;\n}\n\n.category-title {\n    grid-column: 5/14;\n    text-align: center;\n\n    h1 {\n        font-family: $mainFont;\n        font-weight: 500;\n        color: $colorBrand;\n        font-size: 4em;\n        margin-top: 6vh;\n    }\n}\n\n.left-category {\n    grid-column: 2/4;\n    grid-row: 3/5;\n\n}\n\n.left-nav-category {\n    margin-top: 2em;\n}\n\n// .size,\n// .sex {\n//     margin: 4em 0;\n\n//     label {\n//         margin: 0.5em 0;\n//         display: block;\n//         color: #3b3b3b;\n//     }\n\n//     p {\n//         font-size: 1.25em;\n//         font-weight: 500;\n//         color: #3b3b3b;\n//         margin: 0 0 1.5em;\n//     }\n\n// }\n\n// .radio {\n//     display: none;\n// }\n\n// .radio-style {\n//     display: inline-block;\n//     width: 1em;\n//     height: 1em;\n//     border: 1px #3b3b3b solid;\n//     border-radius: 3px;\n//     position: relative;\n// }\n\n// .radio-style::before {\n//     content: \"\";\n//     position: absolute;\n//     width: 1em;\n//     height: 1em;\n//     border-radius: 3px;\n//     background: #fdd304;\n//     opacity: 0;\n//     transition: opacity 0.2s linear;\n// }\n\n// .radio:checked+.radio-style::before {\n//     opacity: 1;\n// }\n\n",
+			"file": "source/css/categories.scss",
+			"file_size": 2510,
+			"file_write_time": 132345369913641501,
+			"settings":
+			{
+				"buffer_size": 2158,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
@@ -621,6 +625,8 @@
 	},
 	"file_history":
 	[
+		"/E/OpServ/OSPanel/domains/merch-modx/www/css/style.css",
+		"/E/OpServ/OSPanel/domains/tara_html/source/css/style.scss",
 		"/E/OpServ/OSPanel/domains/zapakuy/source/html/index.html",
 		"/E/OpServ/OSPanel/domains/php/shop/composer.json",
 		"/E/OpServ/OSPanel/domains/khust-merch/source/html/index.html",
@@ -640,7 +646,6 @@
 		"/E/OpServ/OSPanel/domains/ns/source/html/contacts.html",
 		"/E/OpServ/OSPanel/domains/tara/assets/components/shopkeeper3/web/js/shopkeeperl.js",
 		"/E/OpServ/OSPanel/domains/merch-modx/assets/components/shopkeeper3/web/js/shopkeeper.js",
-		"/E/OpServ/OSPanel/domains/merch-modx/www/css/style.css",
 		"/E/OpServ/OSPanel/domains/merch-modx/www/js/slider.js",
 		"/E/OpServ/OSPanel/domains/gosha/assets/web/php/filters.php",
 		"/E/OpServ/OSPanel/domains/ns-modx/assets/web/php/nominations.php",
@@ -747,8 +752,7 @@
 		"/E/OpServ/OSPanel/domains/imla/source/html/html/about.html",
 		"/E/OpServ/OSPanel/domains/imla/source/html/html/contacts.html",
 		"/E/OpServ/OSPanel/domains/imla/source/html/html/blog.html",
-		"/E/OpServ/OSPanel/domains/imla/source/html/html/news.html",
-		"/E/OpServ/OSPanel/domains/imla/source/html/html/concerts.html"
+		"/E/OpServ/OSPanel/domains/imla/source/html/html/news.html"
 	],
 	"find":
 	{
@@ -831,29 +835,29 @@
 			[
 				{
 					"buffer": 0,
-					"file": "source/css/style.scss",
+					"file": "source/html/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4460,
+						"buffer_size": 11465,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2487,
-								2487
+								2542,
+								2542
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 4336.0,
+						"translation.y": 1131.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
@@ -861,19 +865,19 @@
 				},
 				{
 					"buffer": 1,
-					"file": "source/html/index.html",
+					"file": "source/html/t-shirts.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 11357,
+						"buffer_size": 11730,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1487,
-								1556
+								1542,
+								1550
 							]
 						],
 						"settings":
@@ -883,7 +887,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1017.0,
+						"translation.y": 1131.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -891,49 +895,19 @@
 				},
 				{
 					"buffer": 2,
-					"file": "source/html/t-shirts.html",
+					"file": "source/css/style.scss",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3523,
+						"buffer_size": 5090,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2498,
-								2498
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1626.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/E/OpServ/OSPanel/domains/tara_html/source/css/style.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6093,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								6093,
-								5743
+								1773,
+								1773
 							]
 						],
 						"settings":
@@ -943,7 +917,36 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 8421.0,
+						"translation.y": 2886.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "source/css/categories.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2158,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								533,
+								563
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 566.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 3,
