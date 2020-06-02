@@ -1,8 +1,7 @@
 @import "layout.scss";
 @import "categories.scss";
 @import "goods.scss";
-// @import "product-card.scss";
-// @import "cart.scss";
+@import "cart.scss";
 // @import "paintings.scss";
 // @import "contacts.scss";
 @import "../img/fonts/montserrat/stylesheet.css";
@@ -208,21 +207,29 @@ header {
 }
 
 .right {
+
     grid-column: 4/12;
     grid-row: 3/4;
     flex-wrap: wrap;
 
     a {
+        display: flex;
         text-decoration: none;
         color: $colorText;
+
     }
 }
+
 
 
 
 .goods {
     margin: 2em;
     padding: 1em;
+    width: 200px;
+    border: 1px #eee solid;
+
+
 
     p {
         margin: 0.5em 0;
@@ -237,8 +244,14 @@ header {
 
 }
 
+.goods-image {
+    height: 252px;
+}
+
 .goods:hover {
     .goods-image {
+
+
         img {
             opacity: .4;
         }

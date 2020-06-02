@@ -25,6 +25,26 @@
     grid-column: 6/12;
 }
 
+.button-buy {
+    border: none;
+    height: 6vh;
+    margin: 0 0 3em 2em;
+    padding: 0 1.5em;
+    border-radius: 0.3em;
+    background: #1e1e1e;
+    color: #fff;
+    transition: box-shadow 0.25s ease;
+}
+
+.button-buy:hover {
+    cursor: pointer;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.button-buy:active {
+    box-shadow: none;
+}
+
 .pay-delivery,
 .right-top {
     margin-left: 4em;
@@ -47,7 +67,7 @@
 
 }
 
-.price {
+.goods-price {
     color: #fdd304;
     font-size: 2.5em;
     font-weight: 700;
@@ -66,30 +86,9 @@
 
 }
 
-button {
-    border: none;
-    width: 12vw;
-    height: 6vh;
-    margin: 0 0 3em 2em;
-    border-radius: 0.3em;
-    background: #1e1e1e;
-    color: #fff;
-    transition: box-shadow 0.25s ease;
 
-}
 
-button:hover {
-    cursor: pointer;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-}
 
-;
-
-button:active {
-    box-shadow: none;
-}
-
-;
 
 .pay-delivery {
     display: flex;
@@ -132,4 +131,14 @@ button:active {
     }
 
     grid-column: 2/12;
+
+    table {
+        margin: 3em 0;
+
+        td {
+            padding: 0.25em 3em 0.25em 0;
+            font-weight: 600;
+            color: #555;
+        }
+    }
 }
